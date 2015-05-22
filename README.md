@@ -1,2 +1,2 @@
-# amdac
-Analyzing Mendelian Diseases and Cancer (amdac)
+# mdac
+Mendelian Diseases and Cancer (mdac)
